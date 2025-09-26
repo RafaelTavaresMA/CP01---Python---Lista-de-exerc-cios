@@ -1,4 +1,4 @@
-# CP01---Python---Lista-de-exerc-cios
+# CP01---Python---Lista-de-exercicios
 
 EX1 - Neste exercício, o usuário digita um número inteiro. O programa verifica se esse número é maior ou igual a um (positivo), menor que zero (negativo) ou igual a zero, usando estruturas condicionais simples (if, elif, else).
 
